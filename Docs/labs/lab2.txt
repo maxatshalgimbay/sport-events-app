@@ -1,0 +1,8 @@
+User Amateur sportsman
+
+1) Register
+2) Choose sport
+3) Create event
+4) Enter event
+5) Observe map online
+
